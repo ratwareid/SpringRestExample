@@ -1,7 +1,7 @@
-package com.example.demo.controller;
+package com.ratwareid.spring.controller;
 
-import com.example.demo.model.ResponseModel;
-import com.example.demo.model.TestParamModel;
+import com.ratwareid.spring.model.ResponseModel;
+import com.ratwareid.spring.model.TestParamModel;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

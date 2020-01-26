@@ -1,7 +1,6 @@
-package com.example.demo.controller;
+package com.ratwareid.spring.controller;
 
-import com.example.demo.model.TestModel;
-import org.springframework.web.bind.annotation.PathVariable;
+import com.ratwareid.spring.model.TestModel;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package com.ratwareid.spring.controller;
 
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

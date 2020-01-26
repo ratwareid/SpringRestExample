@@ -1,4 +1,4 @@
-package com.example.demo.model;
+package com.ratwareid.spring.model;
 
 public class ResponseModel {
 
